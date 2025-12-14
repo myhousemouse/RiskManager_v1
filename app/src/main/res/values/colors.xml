@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toss_bg">#F2F4F6</color>
+    <color name="toss_white">#FFFFFF</color>
+    <color name="toss_red">#F04452</color>
+    <color name="toss_red_press">#D93845</color>
+    <color name="toss_text_main">#191F28</color>
+    <color name="toss_text_sub">#8B95A1</color>
+    <color name="toss_input_bg">#F9FAFB</color>
+    <color name="toss_safe">#3182F6</color> 
+    <color name="toss_blue">#3182F6</color>
+
+    <color name="primary_red">#F04452</color>
+    <color name="primary_red_dark">#D93845</color>
+    <color name="background_gray">#F2F4F6</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="border_gray">#E5E7EB</color>
+    <color name="text_primary">#191F28</color>
+    <color name="text_secondary">#8B95A1</color>
+    <color name="text_tertiary">#B0B8C1</color>
+    <color name="danger_red">#F04452</color>
+    <color name="danger_bg">#FFF0F1</color>
+    <color name="success_green">#3182F6</color>
+    <color name="success_bg">#E8F3FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="adR">#CC5A5A</color> // advice red
+    <color name="adB">#4A90E2</color> // advice blue
+
+
+</resources>

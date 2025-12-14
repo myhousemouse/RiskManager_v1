@@ -1,0 +1,15 @@
+<resources>
+    <style name="Base.Theme.RiskManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:windowBackground">@color/background_gray</item>
+
+        <item name="android:statusBarColor">@color/background_gray</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- 폰트 설정 추가 (여기에 추가) -->
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+</resources>
